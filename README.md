@@ -12,7 +12,7 @@
 
 <br>
 
-Programming for fun
+Trying to solve the Advent of Code programming puzzles for fun.
 
 <br>
 
